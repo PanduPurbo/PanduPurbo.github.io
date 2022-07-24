@@ -1,0 +1,17 @@
+.p-5 {
+	background-image: url("img/kapal.jpg");
+	background-size: cover;
+	background-color: #e2edff;
+	height: 770px;
+	text-align: center;
+	margin-top: -120px;
+}
+.p-5 .display-4 {
+	color: white;
+}
+
+.jumbotron p {
+	color: white;
+
+}
+
